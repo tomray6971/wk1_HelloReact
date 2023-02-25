@@ -1,0 +1,10 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tomray6971 <tomray6971@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
